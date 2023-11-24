@@ -1,5 +1,5 @@
 //! Task 1)
-/*function submitForm() {
+function submitForm() {
     var firstName = document.getElementById('firstname').value;
     var lastName = document.getElementById('lastname').value;
     var email = document.getElementById('email').value;
@@ -10,22 +10,22 @@
         "Email: " + email + "<br>" +"Phone-Number: " + number;
 
     document.getElementById('formData').innerHTML = formData;
-}*/
+}
 
 //! Task 2)
 
-/*function extend(details) {
+function extend(details) {
     var extender = document.getElementById(details);
     if (extender.style.display === 'none') {
         extender.style.display = 'block';
     } else {
         extender.style.display = 'none';
     }
-}*/
+}
 
 //! Task 3)
 
-/*function addStudent() {
+function addStudent() {
     // Get form values
     var name = document.getElementById('name').value;
     var age = document.getElementById('age').value;
@@ -98,4 +98,4 @@ function cancelEdit() {
 function deleteStudent(button) {
     var row = button.parentNode.parentNode;
     row.remove();
-}*/
+}
