@@ -1,0 +1,73 @@
+/* Task 1) */
+
+/* .contact-form {
+    width: 100%;
+    padding: 20px;
+    background-color: none;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+.contact-form h2 {
+    text-align: center;
+    font-size: 50px;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+label {
+    display: block;
+    font-weight: bold;
+}
+input{
+    width: 200px;
+    padding: 8px;
+    height: 20px;
+}
+button[type="submit"] {
+    width: 50%;
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    margin-left: 25%;
+    font-size: 20px;
+}
+button[type="submit"]:hover{
+    background-color: orangered;
+}
+#formData{
+    margin-top: 40px;
+} */
+
+/* Task 2) */
+/* .item {
+    max-width: 400px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#details {
+    display: none;
+    margin-top: 10px;
+}
+button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+} */
+
+/* Task 3) */
+
+/*.hidden-form {
+    display: none;
+}
+th,td{
+    padding: 5px;
+}*/
