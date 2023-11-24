@@ -1,6 +1,6 @@
 /* Task 1) */
 
-/* .contact-form {
+.contact-form {
     width: 100%;
     padding: 20px;
     background-color: none;
@@ -40,10 +40,10 @@ button[type="submit"]:hover{
 }
 #formData{
     margin-top: 40px;
-} */
+} 
 
 /* Task 2) */
-/* .item {
+.item {
     max-width: 400px;
     margin: 20px;
     padding: 10px;
@@ -61,13 +61,13 @@ button {
     border: none;
     border-radius: 3px;
     cursor: pointer;
-} */
+} 
 
 /* Task 3) */
 
-/*.hidden-form {
+.hidden-form {
     display: none;
 }
 th,td{
     padding: 5px;
-}*/
+}
